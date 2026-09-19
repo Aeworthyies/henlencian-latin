@@ -1,5 +1,9 @@
-# latin-materials
-Latin learning sources.
+# Henlencian Latin
+## What is this?
+This is the documentation of the Henlencian Latin language. There are noun declentions, verb conjucations, constructions etc. etsim.
+## What is the Henlencian Latin language?
+The Henlencian Latin language is a language, used officially in documents (more of the time), news and in the speech of the civilians of Henlencia.
 
-- [Verbs (Grammar) pt. 1](/Verbs-01.md)
-- [Verbs (Grammar) pt. 2](/Verbs-02.md)
+- Grammar
+  - [Verbs (Grammar) pt. 1](/Verbs-01.md)
+  - [Verbs (Grammar) pt. 2](/Verbs-02.md)
