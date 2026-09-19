@@ -1,6 +1,6 @@
 # Latin verbs
 
-[Previous part](/Verbs-01.md)
+[Previous part](/Grammar/Verbs/Verbs-01.md)
 
 ## Tenses
 
