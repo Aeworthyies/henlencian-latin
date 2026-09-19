@@ -1,5 +1,7 @@
 # Latin verbs
 
+[Previous part](/Verbs-01.md)
+
 ## Tenses
 
 ### Future tense
