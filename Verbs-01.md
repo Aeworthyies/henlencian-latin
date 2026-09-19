@@ -41,7 +41,7 @@ Let's look at what we derive from it:
 | III | scrīb**o** | scrībĭ**mus** | scrībi**s** | scrībĭ**tis** | scrībi**t** | scrību**nt** |
 | IV | sc*i***o** | scī**mus** | scī**s** | scī**tis** | scī**t** | scī**nt** |
 
-### Imperfēctum actīvī (Past continuous active)
+### Imperfectum actīvī (Past continuous active)
 
 Take the present tense, but before personal endings *(-m, -s, -t, etc. et.c)* add **-ba-**:
 
@@ -64,3 +64,29 @@ We derive:
 | II | docē**bām** | docē**bāmus** | docē**bās** | docē**bātis** | doce**bāt** | doce**bānt** |
 | III | scrībē**bām** | scrībē**bāmus** | scrībē**bās** | scrībē**bātis** | scrībē**bāt** | scrībē**bānt** |
 | IV | sciē**bām** | sciē**bāmus** | sciē**bās** | sciē**bātis** | sciē**bāt** | sciē**bānt** |
+
+### Imperatīvus (Commandments)
+
+Just take the present stem and take off the -re, then unstress the last vowel, but keep it long. Done.  
+Also, III imperatīvus plural would be **-ĭte**, not *-ete*.
+
+| Person | Singular | Plural |
+| -- | -- | -- |
+| 2nd | - | -te |
+
+
+| Conjugation | singular | plural |
+| -- | -- | -- |
+| I | ámā | amā́**te** |
+| II | dócē | docḗ**te** |
+| III | scrī́be | scrī́bĭ**te** |
+| IV | scī | scī**te** |
+
+And for negation “drop the rulebook” to **nōlī**:
+
+| Conjugation | singular | plural |
+| -- | -- | -- |
+| I | nōlī amāre | nōlī**te** amāre |
+| II | nōlī docēre | nōlī**te** docēre |
+| III | nōlī scrībĕre | nōlī**te** scrībĕre |
+| IV | nōlī scī | nōlī**te** scīre |
