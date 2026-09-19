@@ -91,4 +91,4 @@ And for negation “drop the rulebook” to **nōlī**:
 | III | nōlī scrībĕre | nōlī**te** scrībĕre |
 | IV | nōlī scī | nōlī**te** scīre |
 
-[Next part](/Verbs-01.md)
+[Next part](/Verbs-02.md)
