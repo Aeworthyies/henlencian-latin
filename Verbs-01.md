@@ -34,49 +34,33 @@ Basically to conjugate easily you only need to remember:
 
 Let's look at what we derive from it:
 
-| Conjugation | 1st singular | 2nd singular | 3rd singular | 1st plural | 2nd plural | 3rd plural |
+| Conjugation | 1st singular | 1st plural | 2nd singular | 2nd plural | 3rd singular | 3rd plural |
 | -- | -- | -- | -- | -- | -- | -- |
 | I | am**ō** | amā**mus** | amā**s** | amā**tis** | ama**t** | ama**nt** |
 | II | doc*ē***o** | docē**mus** | docē**s** | docē**tis** | doce**t** | doce**nt** |
-| III | scrīb**o** | scrībĭ**mus** | scrībi**s** | scrībĭ**tis** | 3rd | scrībi**t** | scrību**nt** |
-| IV | sci**o** | scī**mus** | scī**s** | scī**tis** | scī**t** | scī**nt** |
-<!--
-#### 1st conjugation
+| III | scrīb**o** | scrībĭ**mus** | scrībi**s** | scrībĭ**tis** | scrībi**t** | scrību**nt** |
+| IV | sc*i***o** | scī**mus** | scī**s** | scī**tis** | scī**t** | scī**nt** |
 
-**amō, amāre, amāvī**:
+### Imperfēctum actīvī (Past continuous active)
 
-| Person | Singular | Plural |
-| -- | -- | -- |
-| 1st | am**ō** | amā**mus** |
-| 2nd | amā**s** | amā**tis** |
-| 3rd | ama**t** | ama**nt** |
+Take the present tense, but before personal endings *(-m, -s, -t, etc. et.c)* add **-ba-**:
 
-#### 2nd conjugation
-
-**docēo, docēre, docīvi**:
+But:
+1. in III instead of *-ĭ* at the end of the stem **-ē**.
+2. the last sound is a vowel, so not *-bāo* but **-bām**
+3. at the end of IV stem add **-ē** and make *-ī-* short (**-i-**)
 
 | Person | Singular | Plural |
 | -- | -- | -- |
-| 1st | doc*ē***o** | docē**mus** |
-| 2nd | docē**s** | docē**tis** |
-| 3rd | doce**t** | doce**nt** |
+| 1st | -bām | -bāmus |
+| 2nd | -bās | -bātis |
+| 3rd | -bāt | -bānt |
 
-#### 3nd conjugation
+We derive:
 
-**scrībo, scrībĕre, scrivī**:
-
-| Person | Singular | Plural |
-| -- | -- | -- |
-| 1st | scrīb**o** | scrībĭ**mus** |
-| 2nd | scrībi**s** | scrībĭ**tis** |
-| 3rd | scrībi**t** | scrību**nt** |
-
-#### 4nd conjugation
-
-**scio, scīre, scīvi**:
-
-| Person | Singular | Plural |
-| -- | -- | -- |
-| 1st | sci**o** | scī**mus** |
-| 2nd | scī**s** | scī**tis** |
-| 3rd | scī**t** | scī**nt** |
+| Conjugation | 1st singular | 1st plural | 2nd singular | 2nd plural | 3rd singular | 3rd plural |
+| -- | -- | -- | -- | -- | -- | -- |
+| I | amā**bām** | amā**bāmus** | amā**bās** | amā**bātis** | ama**bāt** | ama**bānt** |
+| II | docē**bām** | docē**bāmus** | docē**bās** | docē**bātis** | doce**bāt** | doce**bānt** |
+| III | scrībē**bām** | scrībē**bāmus** | scrībē**bās** | scrībē**bātis** | scrībē**bāt** | scrībē**bānt** |
+| IV | sciē**bām** | sciē**bāmus** | sciē**bās** | sciē**bātis** | sciē**bāt** | sciē**bānt** |
